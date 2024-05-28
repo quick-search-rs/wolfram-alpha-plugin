@@ -6,7 +6,7 @@ This is a plugin for [Quick Search](https://github.com/quick-search-rs/quick-sea
 ## Usage
 Simply type your question into the search bar, followed by the configured suffix (default is `!w`), you can also change the suffix in the plugin settings.
 
-If the suffix is empty it will always search Wolfram Alpha, but an unpaid Wolfram Alpha account has a limit of 2000 queries per month. So it is not reccomended.
+If the suffix is empty it will always search Wolfram Alpha, but an unpaid Wolfram Alpha account has a limit of 2000 queries per month. So it is not recommended.
 
 ## Settings
 - **Wolfram Alpha Application ID**: Your Wolfram Alpha App ID.
