@@ -8,6 +8,11 @@ Simply type your question into the search bar, followed by the configured suffix
 
 If the suffix is empty it will always search Wolfram Alpha, but an unpaid Wolfram Alpha account has a limit of 2000 queries per month. So it is not reccomended.
 
+## Settings
+- **Wolfram Alpha Application ID**: Your Wolfram Alpha App ID.
+- **Required suffix (will be trimmed)**: The suffix that is required to trigger the plugin.
+- **Include query in clipboard**: If enabled, the query will be copied to the clipboard when the plugin is triggered. With a newline before the result.
+
 ## Installation
 Download and install [Quick Search](https://github.com/quick-search-rs/quick-search/releases/latest) if you haven't already.
 ### Manual
