@@ -9,9 +9,11 @@ Simply type your question into the search bar, followed by the configured suffix
 If the suffix is empty it will always search Wolfram Alpha, but an unpaid Wolfram Alpha account has a limit of 2000 queries per month. So it is not reccomended.
 
 ## Installation
-1. Download and install [Quick Search](https://github.com/quick-search-rs/quick-search/releases/latest) if you haven't already.
-2. Download the [latest release](https://github.com/quick-search-rs/wolfram-alpha-plugin/releases/latest) of this plugin.
-3. Open the Quick Search settings (right-click the tray icon -> Configure) and click "Add Plugin" at the bottom.
+Download and install [Quick Search](https://github.com/quick-search-rs/quick-search/releases/latest) if you haven't already.
+### Manual
+1. Download the [latest release](https://github.com/quick-search-rs/wolfram-alpha-plugin/releases/latest) of this plugin.
+2. Open the Quick Search settings (right-click the tray icon -> Configure)
+3. Click "Add Plugin" at the bottom.
 4. Select the downloaded file.
 5. The plugin should now be installed and ready to use.
 
